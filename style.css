@@ -31,3 +31,8 @@ img{
     font-size: 18px;
     padding: 2px;
 }
+img{
+    width: 300px;
+    height: 300px;
+    margin: 30px;
+}
