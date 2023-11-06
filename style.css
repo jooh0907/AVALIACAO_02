@@ -36,3 +36,24 @@ img{
     height: 300px;
     margin: 30px;
 }
+body{
+    background-color: rgb(240, 241, 241);
+}
+ol{
+    font-size: 18px;
+    color: black;
+    text-align: justify;
+}
+li{
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+    text-align: justify;
+}
+body{
+    background-color: rgb(240, 241, 241);
+}
+ol{
+    font-size: 18px;
+    color: rgb(207, 62, 62);
+    text-align: justify;
+}
